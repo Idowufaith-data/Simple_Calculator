@@ -1,1 +1,2 @@
 # Simple_Calculator
+This python program asks the user to pick an option; each option is an arithimetic operator(+, -, *, /, **) and an exit option. After this, the user is prompted to input two numbers which are then evaluated inside the program; the output/result is then displayed on the screen.
